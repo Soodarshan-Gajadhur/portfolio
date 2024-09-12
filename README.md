@@ -3,6 +3,7 @@
 Welcome to my portfolio website repository! This project showcases the skills I acquired while learning web development, including HTML, CSS, JavaScript, and React. The website is adapted from the [YouTube tutorial by JavaScript Mastery](https://youtu.be/0fYi8SGA20k?si=HwYK6hn7buo5l2Hv) and features engaging 3D animations using Three.js. It is hosted on Netlify for easy access.
 
 ## Website
+
 https://soodarshan-portfolio.netlify.app/
 
 
@@ -12,8 +13,6 @@ https://soodarshan-portfolio.netlify.app/
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
@@ -41,9 +40,12 @@ This portfolio website serves as a personal showcase of my web development proje
 - **JSON (JavaScript Object Notation)**: For handling data interchange and configuration.
 
 ## Acknowledgements
-- JavaScript Mastery YouTube Tutorial for the foundational guide.
-- Three.js Documentation for resources on creating 3D animations.
-- React Documentation for comprehensive resources on React.
-- Tailwind CSS Documentation for utility-first styling.
-- Vite Documentation for fast development tools.
-- Docker Documentation for containerization resources.
+- [JavaScript Mastery YouTube Tutorial](https://youtu.be/0fYi8SGA20k?si=HwYK6hn7buo5l2Hv) for the foundational guide.
+- [Three.js Documentation](https://threejs.org/) for resources on creating 3D animations.
+- [React Documentation](https://reactjs.org/) for comprehensive resources on React.
+- [Tailwind CSS](https://tailwindcss.com/) Documentation for utility-first styling.
+- [Vite Documentation](https://vitejs.dev/) for fast development tools.
+- [Docker Documentation](https://www.docker.com/) for containerization resources.
+
+
+Thank you for checking out my portfolio website! For more information, you can visit my [LinkedIn](https://www.linkedin.com/in/soodarshangajadhur).
